@@ -19,6 +19,7 @@ En este repositorio abierto encontrarás inicialmente la inteligencia colectiva 
 ## ¿Cómo ayudar?
 
 - [Forma parte de este esfuerzo](/help/es.md)
+- [Guía rápida para colaborar en este repositorio](/help/git-instructions/es.md)
 
 ---
 
