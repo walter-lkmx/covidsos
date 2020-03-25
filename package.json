@@ -1,0 +1,26 @@
+{
+  "name": "covidsos",
+  "version": "1.0.0",
+  "description": "COVIDSOS is an open repository built to organize and coordinate individuales who wish to contribute and aid in this COVID-19 pandemic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/covidsosmx/covidsos.git"
+  },
+  "keywords": [
+    "covid-19",
+    "covid",
+    "help",
+    "sos",
+    "covid-19-mexico"
+  ],
+  "author": "Victor Valle",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/covidsosmx/covidsos/issues"
+  },
+  "homepage": "https://github.com/covidsosmx/covidsos#readme"
+}
