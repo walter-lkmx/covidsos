@@ -1,4 +1,4 @@
-![COVIDSOS-help](../covidsos-help.png)
+![COVIDSOS-help](../../covidsos-help.png)
 
 # ¿Cómo ayudar?
 
@@ -10,6 +10,7 @@ Se requiere juntar y clasificar la mayor cantidad de información sobre la fabri
 
 Requerimos personas con habilidades en:
 
+- Git
 - Ingenieros de software
 - Médicos
 - Enfermeros
