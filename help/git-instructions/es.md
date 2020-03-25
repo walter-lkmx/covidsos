@@ -38,7 +38,7 @@ Ahora crea un branch haciendo click en el ícono "Current branch" que se encuent
 
 <img style="left;" src="../../img/dt1-create-branch.png" alt="make a branch" />
 
-Dale un nombre a tu branch <add-your-name>.
+Dale un nombre a tu branch.
 
 <img style="left;" src="../../img/dt1-create-branch-name.png" alt="name your branch" />
 
@@ -54,7 +54,7 @@ Podrás observar que hay cambios en el archivo y han sido añadidos a tu aplicac
 
 Ahora haz commit a esos cambios:
 
-Agrega un título descriptivo y una descripción (opcional) a tus ajustes y haz click en el botón `Commit to add-your-name`.
+Agrega un título descriptivo y una descripción (opcional) a tus ajustes y haz click en el botón `Commit to...`.
 
 <img style="left;" src="../../img/dt1-commit1.png" alt="commit your changes" />
 
