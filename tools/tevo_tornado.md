@@ -8,4 +8,4 @@ vendors:
 
 # Material ideal para mascarillas
 
-jaksdkajssldk ajsdj
+Highprecision printing quality up to 50 microns
