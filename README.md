@@ -14,7 +14,11 @@ En este repositorio abierto encontrarás inicialmente la inteligencia colectiva 
 
 **FAVOR DE NOTAR QUE POR EL MOMENTO NINGUNO DE LOS DISEÑOS HAN SIDO VALIDADOS POR AUTORIDAD MÉDICA ALGUNA.**
 
-**Actualmente nos encontramos clasificando la información y actualizaremos esta nota cuando haya una cantidad suficiente cantidad de información colectada. Jhonathan Osuna**
+**Actualmente nos encontramos clasificando la información y actualizaremos esta nota cuando haya una cantidad suficiente cantidad de información colectada.**
+
+## ¿Cómo ayudar?
+
+- [Forma parte de este esfuerzo](/help/es.md)
 
 ---
 
