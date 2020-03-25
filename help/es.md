@@ -8,6 +8,16 @@ En esta primera fase, se requieren personas con conocimiento y capacidad de crea
 
 Se requiere juntar y clasificar la mayor cantidad de información sobre la fabricación de dicho equipamiento para que en una fase posterior esta sea explotada por la mente y las computadoras de millones de personas en búsqueda de diferentes soluciones aplicadas a las necesidades de sus comunidades, entendiendo que estas necesidades cambiarán drásticamente y constantemente por lo que se requerirá el apoyo de la inteligencia  del mundo para resolver el problema.
 
+Requerimos personas con habilidades en:
+
+- Ingenieros de software
+- Médicos
+- Enfermeros
+- Arquitectos
+- Personas que tengan impresora 3D
+- Persona con conocimientos en diseño 3D, Autocad, CATIA, Rhinocero, Solidworks
+- Técnicos en electrónica
+
 
 
 ## Revisando
