@@ -1,4 +1,4 @@
-![COVIDSOS-help](../../covidsos-help.png)
+![COVIDSOS-help](./img/comoayudar.png)
 
 # ¿Cómo ayudar?
 
