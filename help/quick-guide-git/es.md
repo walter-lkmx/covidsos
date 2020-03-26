@@ -1,3 +1,5 @@
+![Aprende a usar Markdown](./img/primeras-contribuciones.png)
+
 # Primeras Contribuciones
 
 Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
