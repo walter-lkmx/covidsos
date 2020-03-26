@@ -6,7 +6,7 @@ Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor que hacer las 
 
 Si no tienes instalado Github en tu computadora, [instálalo](https://desktop.github.com/). 
 
-<img align="right" width="300" src="../../img/fork.png" alt="fork this repository" />
+![fork](./img/fork.png)
 
 ## Bifurca (Fork) este repositorio
 
@@ -20,15 +20,15 @@ Ahora clona este repositorio en tu computadora.
 
 Para clonar el repositorio, haz click en "Clone or download" y luego click en "Open in Desktop"
 
-<img style="left;" src="../../img/dt1-clonetodesktop.png" alt="clone this repository" />
+![dt1-clonetodesktop](./img/dt1-clonetodesktop.png)
 
 Una ventana emergerá. Haz click en "Open GitHubDesktop.exe".
 
-<img style="left;" src="../../img/dt1-open-githubdesktop.png" alt="clone this repository" />
+![dt1-open-githubdesktop](./img/dt1-open-githubdesktop.png)
 
 Después de hacer click en "Open GitHubDesktop.exe" el contenido será descargado a tu computadora.
 
-<img style="left;" src="../../img/dt1-downloaded.png" alt="clone this repository" />
+![dt1-downloaded](./img/dt1-downloaded.png)
 
 Ahora ya has descargado el contenido de este repositorio a tu computadora
 
@@ -36,11 +36,11 @@ Ahora ya has descargado el contenido de este repositorio a tu computadora
 
 Ahora crea un branch haciendo click en el ícono "Current branch" que se encuentra en la parte superior y haz click en "New branch".
 
-<img style="left;" src="../../img/dt1-create-branch.png" alt="make a branch" />
+![dt1-create-branch](./img/dt1-create-branch.png)
 
 Dale un nombre a tu branch.
 
-<img style="left;" src="../../img/dt1-create-branch-name.png" alt="name your branch" />
+![dt1-create-branch-name](./img/dt1-create-branch-name.png)
 
 Click en `Create branch`
 
@@ -50,37 +50,37 @@ Ahora abre cualquier archivo en Markdown de este repositorio con el editor de c�
 
 Podrás observar que hay cambios en el archivo y han sido añadidos a tu aplicación de Github.
 
-<img style="left;" src="../../img/dt1-status.png" alt="check status" />
+![dt1-status](./img/dt1-status.png)
 
 Ahora haz commit a esos cambios:
 
 Agrega un título descriptivo y una descripción (opcional) a tus ajustes y haz click en el botón `Commit to...`.
 
-<img style="left;" src="../../img/dt1-commit1.png" alt="commit your changes" />
+![dt1-commit1](./img/dt1-commit1.png)
 
 En la parte inferior de la pantalla podrás ver que tu commit ha sido creado.
 
-<img style="left;" src="../../img/dt1-commit2.png" alt="commit your changes" />
+![dt1-commit2](./img/dt1-commit2.png)
 
 ## Haz push a tus cambios hacia Github
 
 Haz click en `File->Options` e inicia sesión en Github.com. Ingresa tu nombre de usuario y contraseña de Github, si aún no tienes una cuenta, crea una.
 
-<img style="left;" src="../../img/dt1-sign-in.png" alt="log-in to Github" />
+![dt1-sign-in](./img/dt1-sign-in.png)
 
 Haz click en el botón `Publish` en la parte superior derecha.
 
-<img style="left;" src="../../img/dt1-publish1.png" alt="push your changes" />
+![dt1-publish1](./img/dt1-publish1.png)
 
 ## Sube tus cambios para que sean revisados
 
 Si te diriges a tu repositorio en github verás el botón `Compare & pull request`, haz click en ese botón.tton.
 
-<img style="left;" src="../../img/compare-and-pull.png" alt="create a pull request" />
+![compare-and-pull](./img/compare-and-pull.png)
 
 Ahora envía tu pull request.
 
-<img style="left;" src="../../img/submit-pull-request.png" alt="submit pull request" />
+![submit-pull-request](./img/submit-pull-request.png)
 
 Pronto, un colaborador autorizado de Covidsos revisará tus cambios y de ser aprobados serán integrados al repositorio de nuestro proyecto. Recibirás una notificación por correo una vez que haya una acción sobre tus cambios.
 
