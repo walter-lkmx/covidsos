@@ -2,9 +2,9 @@
 
 # Aprende a usar Markdown
 
-Markdown es “una herramienta de conversión de texto a HTML”, creada por John Gruber con el objetivo de ayudarte a concentrar en la escritura en vez de en el formato del documento.
+Markdown es “una herramienta de conversión de texto a HTML”, creada por John Gruber con el objetivo de ayudar a concentrarte en la escritura, en vez de enfocarte en el formato del documento.
 
-Al utilizar la sintaxis de Markdown, serás capaz de producir archivos que pueden ser legibles como texto plano y que a la vez están listos para ser formados en otras plataformas. Muchos generadores de bitácoras y de sitios estáticos, así como sitios como GitHub, también aceptan Markdown y traducen estos archivos a HTML para su visualización en la web. 
+Al utilizar la sintaxis de Markdown, serás capaz de producir archivos que pueden ser legibles como texto plano, y que a la vez están listos para ser formados en otras plataformas. Muchos generadores de bitácoras y de sitios estáticos, así como sitios como GitHub, también aceptan Markdown y traducen estos archivos a HTML para su visualización en la web. 
 
 ## Aprende en cinco minutos
 
@@ -32,7 +32,7 @@ Como los documentos de Markdown son documentos de texto simple, puedes usar cual
     
     *Itálica*
     
-    ***Itálica & negritas juntas***
+    ***Itálica y negritas juntas***
     
     Código
     
@@ -45,4 +45,4 @@ Como los documentos de Markdown son documentos de texto simple, puedes usar cual
     Para añadir una imagen: ¡[Nombre de imagen](fuente de la imagen, una url)
 
 
-Recomendamos el uso del editor de texto Visual Studio Code junto con la extensión Markdown All in One, mira nuestro manual de [Como instalar Visual Studio Code](../vs_code-instructions/es.md).
+Recomendamos el uso del editor de texto 'Visual Studio Code', junto con la extensión "Markdown All in One". Mira nuestro manual de [Como instalar Visual Studio Code](../vs_code-instructions/es.md).

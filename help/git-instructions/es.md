@@ -1,8 +1,8 @@
 # Primeras Contribuciones
 
-Es complicado. Resulta difícil la primera vez que haces algo, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
+Es complicado. Resulta difícil hacer algo la primera vez, especialmente cuando colaboras con otros, pues cometer errores no es nada agradable. Nuestro objetivo es simplificar la forma en la que los nuevos contribuidores de _codigo abierto_ aprenden y contribuyen por primera vez.
 
-Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación.
+Leer artículos y ver tutoriales puede ayudar, pero, ¿qué mejor que hacer las cosas en un entorno de prácticas? Este proyecto se enfoca en ser una guía y en simplificar la forma en la que los principiantes hacen su primera contribución. Si quieres hacer tu primera contribución, sigue los pasos que se muestran a continuación:
 
 Si no tienes instalado Github en tu computadora, [instálalo](https://desktop.github.com/). 
 
@@ -10,7 +10,7 @@ Si no tienes instalado Github en tu computadora, [instálalo](https://desktop.gi
 
 ## Bifurca (Fork) este repositorio
 
-Haz fork a este repositorio haciendo click en el botón que se encuentra en la parte superior derecha de esta página. Esto creará una una copia de este repositorio en tu cuenta de Github.
+Haz fork a este repositorio haciendo clic en el botón que se encuentra en la parte superior derecha de esta página. Esto creará una una copia de este repositorio en tu cuenta de Github.
 
 ## Clona el repositorio
 
@@ -18,15 +18,15 @@ Ahora clona este repositorio en tu computadora.
 
 **IMPORTANTE: NO CLONES EL REPOSITORIO ORIGINAL**. Ve a tu propio fork y clónalo en tu computadora.
 
-Para clonar el repositorio, haz click en "Clone or download" y luego click en "Open in Desktop"
+Para clonar el repositorio, haz clic en "Clone or download" y luego clic en "Open in Desktop"
 
 ![dt1-clonetodesktop](./img/dt1-clonetodesktop.png)
 
-Una ventana emergerá. Haz click en "Open GitHubDesktop.exe".
+Una ventana emergerá. Haz clic en "Open GitHubDesktop.exe".
 
 ![dt1-open-githubdesktop](./img/dt1-open-githubdesktop.png)
 
-Después de hacer click en "Open GitHubDesktop.exe" el contenido será descargado a tu computadora.
+Después de hacer clic en "Open GitHubDesktop.exe" el contenido será descargado a tu computadora.
 
 ![dt1-downloaded](./img/dt1-downloaded.png)
 
@@ -34,7 +34,7 @@ Ahora ya has descargado el contenido de este repositorio a tu computadora
 
 ## Crea un branch
 
-Ahora crea un branch haciendo click en el ícono "Current branch" que se encuentra en la parte superior y haz click en "New branch".
+Haz clic en el ícono "Current branch" que se encuentra en la parte superior, después da clic en "New branch".
 
 ![dt1-create-branch](./img/dt1-create-branch.png)
 
@@ -42,7 +42,7 @@ Dale un nombre a tu branch.
 
 ![dt1-create-branch-name](./img/dt1-create-branch-name.png)
 
-Click en `Create branch`
+Clic en `Create branch`
 
 ## Haz los cambios necesarios y sube dichos cambios
 
@@ -54,7 +54,7 @@ Podrás observar que hay cambios en el archivo y han sido añadidos a tu aplicac
 
 Ahora haz commit a esos cambios:
 
-Agrega un título descriptivo y una descripción (opcional) a tus ajustes y haz click en el botón `Commit to...`.
+Agrega un título descriptivo y una descripción (opcional) a tus ajustes. Después haz clic en el botón `Commit to...`.
 
 ![dt1-commit1](./img/dt1-commit1.png)
 
@@ -64,25 +64,25 @@ En la parte inferior de la pantalla podrás ver que tu commit ha sido creado.
 
 ## Haz push a tus cambios hacia Github
 
-Haz click en `File->Options` e inicia sesión en Github.com. Ingresa tu nombre de usuario y contraseña de Github, si aún no tienes una cuenta, crea una.
+Haz clic en `File->Options` e inicia sesión en Github.com. Ingresa tu nombre de usuario y contraseña de Github. Si aún no tienes una cuenta, crea una.
 
 ![dt1-sign-in](./img/dt1-sign-in.png)
 
-Haz click en el botón `Publish` en la parte superior derecha.
+Haz clic en el botón `Publish`, en la parte superior derecha.
 
 ![dt1-publish1](./img/dt1-publish1.png)
 
 ## Sube tus cambios para que sean revisados
 
-Si te diriges a tu repositorio en github verás el botón `Compare & pull request`, haz click en ese botón.tton.
+Si te diriges a tu repositorio en Github, da clic en el botón `Compare & pull request`.
 
 ![compare-and-pull](./img/compare-and-pull.png)
 
-Ahora envía tu pull request.
+Ahora envía tu 'Pull request'.
 
 ![submit-pull-request](./img/submit-pull-request.png)
 
-Pronto, un colaborador autorizado de Covidsos revisará tus cambios y de ser aprobados serán integrados al repositorio de nuestro proyecto. Recibirás una notificación por correo una vez que haya una acción sobre tus cambios.
+Pronto, un colaborador autorizado de Covidsos revisará tus cambios, y de ser aprobados serán integrados al repositorio de nuestro proyecto. Recibirás una notificación por correo una vez que haya una acción sobre tus cambios.
 
 ## ¿Qué sigue?
 
