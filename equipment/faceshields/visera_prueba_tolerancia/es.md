@@ -27,6 +27,9 @@ Las instrucciones a continuación aplican a Cura en la versión 4.5. Si alguno d
 
 Lo primero es configurar las costuras de la impresora (z seam). Estos parámetros le dicen a la impresora donde hacer el salto entre una capa y otra, y es posible configurar donde se hará el salto para que la pieza quede mejor.
 
+![config z seam cura](./img/config_z_seam_cura.png) 
+
+![z seam impresion](./img/z_seam_impresión.jpg)
 
 * En la sección «Shell» (Perímetro) ajustar el valor de «Z Seam Alignment» a «User Specified»
 * Ajustar «Z Seam Position» en «Back»
@@ -38,5 +41,8 @@ Para evitar que las piezas móviles de la visera se fusionen seguramente necesit
 
 Este valor también se encuentra dentro de la sección «Shell» (Perímetro) en Cura.
 
+![config expansion horizontal](./img/config_expansión_horizontal_cura.png)
+
+![test tolerancia](./img/test_tolerancia.jpeg)
 
 Muchas gracias a Leo Cardinale en Telegram por su ayuda para crear esta guía!
