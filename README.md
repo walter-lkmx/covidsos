@@ -20,10 +20,10 @@ En este repositorio abierto encontrarás inicialmente la inteligencia colectiva 
 
 - [Cómo ayudar](/help/how-to/es.md)
 
-## Instrucciones
+## Guías
 
-- [Instrucciones para usar Git](/help/git-instructions/es.md)
-- [Guía rápida para usar Markdown](/help/markdown/es.md)
+- [Guía rápida para usar Git](/help/git-instructions/es.md)
+- [Guía rápida para usar Markdown](/help/quick-guide-markdown/es.md)
 - [Guía rápida para usar Visual Studio Code](/help/vs_code-instructions/es.md)
 
 ---
