@@ -1,10 +1,10 @@
 ---
 id: visera
-name: Visera
-summary: Prusa Face Shield RC2
-link: https://www.prusaprinters.org/prints/25857-protective-face-shield-
+name: visera
+summary: visera
+link: .
 tools:
-  - ender_3
+  - .
 materials:
   - PLA850 o PLA 870
   - esun_hips_black_175_mm
@@ -17,7 +17,6 @@ picture: img/photo_2020-03-23-12.36.28-1008x1024.jpeg
 
 ## Detalles
 
-Visera
 
 ![Visera](./img/photo_2020-03-23-12.36.28-1008x1024.jpeg)
 
@@ -25,7 +24,7 @@ Las viseras se forman con tres partes: el marco impreso, una lámina de PET/PVC 
 
 Para participar no es necesario que dispongas del PET/PVC ni de la banda elástica.
 
-Te recomendamos que primero hagas la prueba de tolerancia para verificar que tu configuración es la correcta.
+Te recomendamos que primero hagas la [prueba de tolerancia](../visera_prueba_tolerancia/es.md) para verificar que tu configuración es la correcta.
 
 Descárgate uno de los dos paquetes disponibles:
 
