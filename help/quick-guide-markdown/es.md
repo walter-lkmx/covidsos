@@ -1,4 +1,4 @@
-![Aprende a usar Markdown](./img/instalacion_visual-code.png)
+![Aprende a usar Markdown](./img/guia-markdown.png)
 
 # Aprende a usar Markdown
 
