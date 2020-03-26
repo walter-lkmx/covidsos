@@ -1,6 +1,5 @@
 # Como instalar Visual Studio Code
 
-
 Visual Studio Code es un editor multiplataforma con reconocimiento de sintaxis de código y coloreado de una multitud de lenguajes e integración con Git.
 
 Visual Studio Code es un editor ligero no un IDE completo, es decir no es un sustituto del Visual Studio sino que más bien es una herramienta básica para cubrir las necesidades de edición de código simple. Lo más importante de este editor es su gratuidad y que se puede descargar en varias plataformas como Windows, Mac, Linux entre otras.
@@ -41,7 +40,6 @@ A continuación hacemos clic en finalizar.
 
 ![vs finalizar](./img/vs_finalizar.png)
 
-
 ## Como abrir un repositorio con Visual Studio Code
 
 Para abrir los archivos de un repositorio o de un proyecto en VS Code, debemos hacer clic en "File" y seleccionar "Open Folder..." y seleccionar la carpeta del repositorio. 
@@ -54,10 +52,9 @@ Una vez abierta la carpeta se mostrara en el panel izquierdo los archivos que co
 
 ![re detalles](./img/re_detalles.png)
 
+## Como instalar la extensión "Markdown All in One" en Visual Studio Code
 
-# Como instalar la extensión "Markdown All in One" en Visual Studio Code
-
-Para facilitar el uso de Markdown utilizaremos la extensión “Markdown All in One” la cual instalaremos en VS Code siguiendo los siguientes pasos.
+Para facilitar el uso de Markdown recomendamos que se utilicé la extensión “Markdown All in One” la cual instalaremos en VS Code siguiendo los siguientes pasos.
 
 Para instalar "Markdown All in One" en VS Code, haremos clic en el ícono de "Extensions" o si nos encontramos en Windows 10 podemos utilizar las teclas "Ctrl+Shift+X", al hacer esto se desplegará del lado izquierdo un buscador donde realizamos la siguiente búsqueda "Markdown All in One", una vez encontrada la extensión haremos clic en "Install".
 
@@ -65,15 +62,13 @@ Para instalar "Markdown All in One" en VS Code, haremos clic en el ícono de "Ex
 
 ![md instalar](./img/md_instalar.png)
 
-
-Cuando se termine de realizar la instalación procederemos a crear nuestro primer archivo con sintaxis Markdown.
+Cuando se termine de realizar la instalación procederemos a crear nuestro primer archivo con lenguaje Markdown.
 
 ![md cerrar](./img/md_cerrar.png)
 
+## Crear un archivo con lenguaje Markdown
 
-## Como crear un archivo Markdown
-
-Seleccionamos una carpeta donde vayamos a guardar nuestro archivo Markdown y hacemos clic derecho sobre la carpeta, seleccionamos "New file" e indicamos el nombre del archivo. 
+Seleccionaremos una carpeta donde vayamos a guardar nuestro archivo y hacemos clic derecho sobre la carpeta, seleccionamos "New file" e indicamos el nombre del archivo. 
 
 ![md carpeta](./img/md_carpeta.png)
 
