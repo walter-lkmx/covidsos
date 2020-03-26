@@ -2,7 +2,7 @@
 
 # Aprende a usar Markdown
 
-Markdown es “una herramienta de conversión de texto a HTML”, creada por John Gruber con el objetivo de ayudar a concentrarte en la escritura, en vez de enfocarte en el formato del documento.
+Markdown es “una herramienta de conversión de texto a HTML” creada por John Gruber, con el objetivo de ayudar a concentrarte en la escritura, en vez de enfocarte en el formato del documento.
 
 Al utilizar la sintaxis de Markdown, serás capaz de producir archivos que pueden ser legibles como texto plano, y que a la vez están listos para ser formados en otras plataformas. Muchos generadores de bitácoras y de sitios estáticos, así como sitios como GitHub, también aceptan Markdown y traducen estos archivos a HTML para su visualización en la web. 
 

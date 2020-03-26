@@ -1,7 +1,7 @@
 # Como instalar Visual Studio Code
 
 
-Visual Studio Code (VS Code) es un editor multiplataforma con reconocimiento de sintaxis de código y coloreado de una multitud de lenguajes e integración con Git. No es un IDE completo (sustituto del Visual Studio), sino una herramienta básica para cubrir las necesidades de edición de código simple. Lo más importante de este editor es su gratuidad y descarga en varias plataformas como Windows, Mac y Linux, entre otras.
+Visual Studio Code (VS Code) es un editor multiplataforma con reconocimiento de sintaxis de código y coloreado de una multitud de lenguajes e integración con Git. No es un IDE completo (sustituto del Visual Studio), sino una herramienta básica para cubrir necesidades de edición de código simple. Lo más importante de este editor es su gratuidad y descarga en varias plataformas como Windows, Mac y Linux, entre otras.
 
 Para descargar VS Code, ingresa a [code.visualstudio](https://code.visualstudio.com) y haz clic en "Download".
 
