@@ -18,8 +18,13 @@ En este repositorio abierto encontrarás inicialmente la inteligencia colectiva 
 
 ## ¿Cómo ayudar?
 
-- [Forma parte de este esfuerzo](/help/how-to/es.md)
-- [Guía rápida para colaborar en este repositorio](/help/git-instructions/es.md)
+- [Cómo ayudar](/help/collaborate-covidsos/es.md)
+
+## Guías
+
+- [Guía rápida para usar Git](/help/quick-guide-git/es.md)
+- [Guía rápida para usar Markdown](/help/quick-guide-markdown/es.md)
+- [Guía rápida para usar Visual Studio Code](/help/quick-guide-visual-studio-code/es.md)
 
 ---
 
