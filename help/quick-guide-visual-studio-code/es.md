@@ -1,8 +1,10 @@
+![Aprende a usar Markdown](./img/instalacion-vscode.png)
+
 # Como instalar Visual Studio Code
 
 Visual Studio Code es un editor multiplataforma con reconocimiento de sintaxis de código y coloreado de una multitud de lenguajes e integración con Git.
 
-Para descargar VS Code, ingresa a [code.visualstudio](https://code.visualstudio.com) y haz clic en "Download".
+Para descargar VS Code, ingresa a [code.visualstudio.com](https://code.visualstudio.com) y haz clic en "Download".
 
 ![vs descarga](./img/vs_descarga.png)
 
