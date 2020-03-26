@@ -18,8 +18,13 @@ En este repositorio abierto encontrarás inicialmente la inteligencia colectiva 
 
 ## ¿Cómo ayudar?
 
-- [Forma parte de este esfuerzo](/help/how-to/es.md)
-- [Guía rápida para colaborar en este repositorio](/help/git-instructions/es.md)
+- [Cómo ayudar](/help/how-to/es.md)
+
+## Instrucciones
+
+- [Instrucciones para usar Git](/help/git-instructions/es.md)
+- [Guía rápida para usar Markdown](/help/markdown/es.md)
+- [Guía rápida para usar Visual Studio Code](/help/vs_code-instructions/es.md)
 
 ---
 
