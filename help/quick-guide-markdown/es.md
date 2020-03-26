@@ -45,4 +45,4 @@ Como los documentos de Markdown son documentos de texto simple, puedes usar cual
     Para añadir una imagen: ¡[Nombre de imagen](fuente de la imagen, una url)
 
 
-Recomendamos el uso del editor de texto 'Visual Studio Code', junto con la extensión "Markdown All in One". Mira nuestro manual de [Como instalar Visual Studio Code](../vs_code-instructions/es.md).
+Se recomienda el uso del editor de texto 'Visual Studio Code', junto con la extensión "Markdown All in One". Mira nuestro manual de [Como instalar Visual Studio Code](../vs_code-instructions/es.md).
